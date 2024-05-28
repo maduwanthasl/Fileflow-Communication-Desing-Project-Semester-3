@@ -12,3 +12,14 @@ The Fileflow project entails the development of a point-to-point digital wireles
 - Design and implement a digital wireless communication system that uses RTL-SDR and BladeRF devices to establish a secure and reliable connection between two computers.
 #### Security and Reliability:
 - Ensure that communications are both secure and reliable, incorporating measures to prevent eavesdropping and mitigate the effects of external jamming.
+#### Transmitter Design:
+- Encoding: Develop encoding mechanisms to prepare files for transmission.
+- Security Implementation: Implement security protocols to protect data.
+- Reliability Enhancement: Include features to enhance the reliability of data transmission.
+- Jamming Protection: Integrate protection against potential jamming attacks.
+#### Modulation: 
+- Apply suitable modulation techniques for effective data transmission.
+#### Receiver Design:
+- Reliability Enhancement: Implement measures to enhance the reliability of received data.
+- Demodulation: Develop demodulation techniques to accurately retrieve data from the signal.
+- Decoding: Create decoding methods to reconstruct the original files from the received data.
