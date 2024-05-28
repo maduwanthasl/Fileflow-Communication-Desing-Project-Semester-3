@@ -17,8 +17,7 @@ The Fileflow project entails the development of a point-to-point digital wireles
 - Security Implementation: Implement security protocols to protect data.
 - Reliability Enhancement: Include features to enhance the reliability of data transmission.
 - Jamming Protection: Integrate protection against potential jamming attacks.
-#### Modulation: 
-- Apply suitable modulation techniques for effective data transmission.
+- Modulation: Apply suitable modulation techniques for effective data transmission.
 #### Receiver Design:
 - Reliability Enhancement: Implement measures to enhance the reliability of received data.
 - Demodulation: Develop demodulation techniques to accurately retrieve data from the signal.
