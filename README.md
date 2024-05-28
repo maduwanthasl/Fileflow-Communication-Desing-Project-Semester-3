@@ -22,3 +22,16 @@ The Fileflow project entails the development of a point-to-point digital wireles
 - Reliability Enhancement: Implement measures to enhance the reliability of received data.
 - Demodulation: Develop demodulation techniques to accurately retrieve data from the signal.
 - Decoding: Create decoding methods to reconstruct the original files from the received data.
+
+#### Operational Parameters:
+- Frequency Band: Operate the system within the 2.4 GHz ISM band, adhering to maximum power limitations to comply with regulations.
+- User Interface: Design a user-friendly interface to facilitate easy operation and monitoring of the system.
+
+#### Performance Evaluation:
+- Assess the system's performance by evaluating communication effectiveness over varying distances and measuring end-to-end delay to ensure minimal latency.
+
+#### Optional Features:
+
+- Channel Estimation: Implement techniques to estimate channel conditions for optimizing communication parameters.
+- Adaptive Transmission: Incorporate adaptive transmission methods to adjust to changing channel conditions dynamically.
+- Closed-Loop System: Develop a closed-loop system to enhance communication efficiency and reliability through feedback mechanisms.
