@@ -36,3 +36,6 @@ The Fileflow project entails the development of a point-to-point digital wireles
 - Adaptive Transmission: Incorporate adaptive transmission methods to adjust to changing channel conditions dynamically.
 - Closed-Loop System: Develop a closed-loop system to enhance communication efficiency and reliability through feedback mechanisms.
 
+## The Main Block diagram of the communication system
+
+
