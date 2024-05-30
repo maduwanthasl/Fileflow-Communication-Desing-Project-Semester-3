@@ -38,4 +38,4 @@ The Fileflow project entails the development of a point-to-point digital wireles
 
 ## The Main Block diagram of the communication system
 
-
+![Block diagrma](https://raw.githubusercontent.com/maduwanthasl/Fileflow-Communication-Desing-Project-Semester-3/main/Pictures/block%20diagram.png)
