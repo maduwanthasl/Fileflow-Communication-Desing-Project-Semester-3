@@ -57,3 +57,14 @@ The Fileflow project entails the development of a point-to-point digital wireles
 ### AM modulation
 ![am modulation](https://github.com/maduwanthasl/Fileflow-Communication-Desing-Project-Semester-3/assets/107339150/3d2d98b7-3ee2-4dbd-b7b7-1061572379cd)
 
+## Software
+
+- **GNU Radio**: 
+  - [GNU Radio](https://www.gnuradio.org/) is a free and open-source toolkit for building software-defined radios and signal-processing systems.
+- **MATLAB**: 
+  - [MATLAB](https://www.mathworks.com/products/matlab.html) is a programming platform designed specifically for engineers and scientists.
+
+## Resources
+
+- **GNU Radio Tutorials**: 
+  - [GNU Radio Tutorials](https://wiki.gnuradio.org/index.php/Tutorials) offer comprehensive guides and examples to help users get started with GNU Radio.
