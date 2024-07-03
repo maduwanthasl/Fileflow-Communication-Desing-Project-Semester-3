@@ -48,8 +48,9 @@ The Fileflow project entails the development of a point-to-point digital wireles
 ### Audio File Transfer
 ![audio](https://github.com/maduwanthasl/Fileflow-Communication-Desing-Project-Semester-3/assets/107339150/09eac3e9-afe9-4758-8057-13db11c03224)
 
-
-## Simple Fm radio
+## Others
+### Simple Fm radio
 ![simple fm tx](https://github.com/maduwanthasl/Fileflow-Communication-Desing-Project-Semester-3/assets/107339150/373ae091-f0a1-40b5-9e53-221a049add17)
-
+### AM modulation
+![am modulation](https://github.com/maduwanthasl/Fileflow-Communication-Desing-Project-Semester-3/assets/107339150/3d2d98b7-3ee2-4dbd-b7b7-1061572379cd)
 
